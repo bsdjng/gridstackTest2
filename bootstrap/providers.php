@@ -1,5 +1,5 @@
 <?php
 
 return [
-    \gridstackTest2\app\Providers\AppServiceProvider::class,
+    \App\Providers\AppServiceProvider::class
 ];

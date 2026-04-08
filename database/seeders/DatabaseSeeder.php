@@ -1,10 +1,9 @@
 <?php
 
-namespace gridstackTest2\database\seeders;
+namespace Database\Seeders;
 
-use gridstackTest2\app\Models\StorageRoom;
-use gridstackTest2\app\Models\User;
-use gridstackTest2\database\factories\StorageRoomFactory;
+use App\Models\StorageRoom;
+use App\Models\User;
 use Illuminate\Database\Console\Seeds\WithoutModelEvents;
 use Illuminate\Database\Seeder;
 

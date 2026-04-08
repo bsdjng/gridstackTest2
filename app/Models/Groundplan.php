@@ -1,8 +1,8 @@
 <?php
 
-namespace gridstackTest2\vendor\_laravel_idea;
+namespace App\Models;
 
-use gridstackTest2\app\Models\GroundplanCell;use Illuminate\Database\Eloquent\Model;
+use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\Relations\HasMany;
 
 class Groundplan extends Model

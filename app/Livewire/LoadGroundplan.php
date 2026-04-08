@@ -1,8 +1,8 @@
 <?php
 
-namespace gridstackTest2\app\Livewire;
+namespace App\Livewire;
 
-use gridstackTest2\vendor\_laravel_idea\Groundplan;
+use App\Models\Groundplan;
 use Livewire\Attributes\Computed;
 use Livewire\Component;
 

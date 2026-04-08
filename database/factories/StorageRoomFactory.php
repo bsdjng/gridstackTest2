@@ -1,8 +1,8 @@
 <?php
 
-namespace gridstackTest2\database\factories;
+namespace Database\Factories;
 
-use gridstackTest2\app\Models\StorageRoom;
+use App\Models\StorageRoom;
 use Illuminate\Database\Eloquent\Factories\Factory;
 use Illuminate\Support\Carbon;
 

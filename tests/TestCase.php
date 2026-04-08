@@ -1,6 +1,6 @@
 <?php
 
-namespace gridstackTest2\tests;
+namespace Tests;
 
 use Illuminate\Foundation\Testing\TestCase as BaseTestCase;
 

@@ -11,7 +11,7 @@
 |
 */
 
-pest()->extend(\gridstackTest2\tests\TestCase::class)
+pest()->extend(tests\TestCase::class)
  // ->use(Illuminate\Foundation\Testing\RefreshDatabase::class)
     ->in('Feature');
 

@@ -1,6 +1,6 @@
 <?php
 
-namespace gridstackTest2\app\Providers;
+namespace App\Providers;
 
 use Illuminate\Support\ServiceProvider;
 

@@ -1,8 +1,8 @@
 <?php
-use gridstackTest2\app\Livewire\EditGroundplan;
-use gridstackTest2\app\Livewire\LoadGroundplan;
-use gridstackTest2\app\Livewire\IndexGroundplan;
-use gridstackTest2\app\Livewire\LoadGroundplanApp;
+use App\Livewire\EditGroundplan;
+use App\Livewire\LoadGroundplan;
+use App\Livewire\IndexGroundplan;
+use App\Livewire\LoadGroundplanApp;
 use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {

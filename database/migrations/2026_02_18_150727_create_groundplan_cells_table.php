@@ -1,6 +1,6 @@
 <?php
 
-use gridstackTest2\app\Models\StorageRoom;
+use App\Models\StorageRoom;
 use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Facades\Schema;

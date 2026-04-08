@@ -1,10 +1,10 @@
 <?php
 
-namespace gridstackTest2\app\Livewire;
+namespace App\Livewire;
 
-use gridstackTest2\vendor\_laravel_idea\Groundplan;
-use gridstackTest2\app\Models\GroundplanCell;
-use gridstackTest2\app\Models\StorageRoom;
+use App\Models\Groundplan;
+use App\Models\GroundplanCell;
+use App\Models\StorageRoom;
 use Livewire\Attributes\Computed;
 use Livewire\Component;
 
