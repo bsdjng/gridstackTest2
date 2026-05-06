@@ -1,6 +1,34 @@
 # GridStack Testproject
 
-Dit is een ruig technisch ontwerp om de **GridStack implementatie** te testen en te experimenteren met dynamische layouts.
+Dit is een technisch testproject om de GridStack implementatie te onderzoeken en te testen met dynamische layouts.
+
+---
+
+## Installatie en starten
+
+### 1. Project uitpakken
+Unzip het projectbestand en open deze in een code editor.
+
+### 2. Dependencies installeren
+
+Ga naar de root van het project en voer de volgende commands uit in de terminal:
+
+#### PHP dependencies (Laravel)
+```bash
+composer install
+
+```
+
+Deze command geeft een lokale url terug waarmee de website geopend kan worden:
+```bash
+php artisan serve
+```
+
+open een nieuwe terminal (sluit de vorige terminal niet) en voer dit command uit:
+```bash
+npm run dev
+```
+
 
 ## Belangrijke routes
 
