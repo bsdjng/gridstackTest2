@@ -12,7 +12,7 @@ class Groundplan extends Model
     ];
 
     /**
-     * @return HasMany<GroundplanCells, $this>
+     * @return HasMany<GroundplanCell, $this>
      */
     public function groundplanCells(): HasMany
     {
