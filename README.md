@@ -41,6 +41,9 @@ Overzichtspagina met alle gemaakte layouts.
 ### `/load/(id)`
 Weergave van een opgeslagen layout op desktop.
 
+### `/edit/(id)`
+Bewerken van een layout.
+
 ### `/load-app/(id)`
 Mobiele weergave van een opgeslagen layout (telefoonweergave).  
 Deze route is niet via de interface bereikbaar en kan alleen handmatig via de URL worden geopend.
