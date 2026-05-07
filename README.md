@@ -16,7 +16,11 @@ Ga naar de root van het project en voer de volgende commands uit in de terminal:
 #### PHP dependencies (Laravel)
 ```bash
 composer install
+```
 
+Stel de database op:
+```bash
+php artisan migrate:fresh --seed
 ```
 
 Deze command geeft een lokale url terug waarmee de website geopend kan worden:
@@ -24,7 +28,7 @@ Deze command geeft een lokale url terug waarmee de website geopend kan worden:
 php artisan serve
 ```
 
-open een nieuwe terminal (sluit de vorige terminal niet) en voer dit command uit:
+Open een nieuwe terminal (sluit de vorige terminal niet) en voer dit command uit:
 ```bash
 npm run dev
 ```
